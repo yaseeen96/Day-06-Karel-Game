@@ -11,7 +11,7 @@ while not at_goal():
   elif right_is_clear() and wall_in_front():
     turn_right()
     move()
-  elif front_is_clear() and wall_on_right:
+  elif front_is_clear() and wall_on_right():
     move()
 
   else:
