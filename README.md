@@ -31,6 +31,6 @@ while not at_goal():
 ```
 
 1. Copy the above code.
-2. Head over to [This website](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=test&url=user_world%3Atest)
+2. Head over to [this website](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 3. Paste the code in the code editor.
 4. Run the code in code editor - Look for a "Run" button or similar control within the Reeborg's World interface. This button is usually located near the code editor. Click the "Run" button to execute your Python code.
